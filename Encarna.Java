@@ -1,2 +1,2 @@
 psvm
-System.ot.println('Voy a Suspender 1');
+System.ot.println('Voy a Suspender 2');
